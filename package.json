@@ -1,10 +1,14 @@
 {
-  "name": "string-case-converter",
-  "version": "0.0.1",
+  "name": "@juvpengele/string-case-conversion",
+  "version": "1.0.0",
   "description": "A package to convert string case",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivoiredevacademy/string-case-conversion"
   },
   "keywords": [
     "string",
