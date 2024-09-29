@@ -17,13 +17,13 @@ It’s perfect for any JavaScript or Node.js project.
 To install with npm:
 
 ```bash
-npm install string-case-converter
+npm install string-case-conversion
 ```
 
 ## Usage
 
 ```javascript
-const { toCamelCase, toSnakeCase, toKebabCase, toPascalCase, toTitleCase } = require('string-case-converter');
+const { toCamelCase, toSnakeCase, toKebabCase, toPascalCase, toTitleCase } = require('string-case-conversion');
 
 const inputString = "hello world";
 
