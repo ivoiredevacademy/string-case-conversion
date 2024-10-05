@@ -1,8 +1,3 @@
-- Gerard darell
-
-
-
-
 # String Case Converter
 
 **String Case Converter** is a lightweight npm package that converts strings between different case formats such as`snake_case`.
