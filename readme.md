@@ -12,7 +12,7 @@ It’s perfect for any JavaScript or Node.js project.
 To install with npm:
 
 ```bash
-npm install string-case-conversion
+npm install @juvpengele/string-case-conversion
 ```
 
 ## Usage
