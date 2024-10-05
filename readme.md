@@ -1,6 +1,6 @@
-# String Case Converter
+# String Case Conversion
 
-**String Case Converter** is a lightweight npm package that converts strings between different case formats such as`snake_case`.
+**String Case Conversion** is a lightweight npm package that converts strings between different case formats such as`snake_case`.
 It’s perfect for any JavaScript or Node.js project.
 
 ## Features
@@ -12,13 +12,13 @@ It’s perfect for any JavaScript or Node.js project.
 To install with npm:
 
 ```bash
-npm install string-case-conversion
+npm install @juvpengele/string-case-conversion
 ```
 
 ## Usage
 
 ```javascript
-const { toCamelCase, toSnakeCase, toKebabCase, toPascalCase, toTitleCase } = require('string-case-conversion');
+const { toSnakeCase } = require('@juvpengele/string-case-conversion');
 
 const inputString = "hello world";
 
